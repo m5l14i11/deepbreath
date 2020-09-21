@@ -1,4 +1,4 @@
 # deepbreath
 
-##Pet project
-##IDE ? for deep learning
+## Pet project
+## IDE ? for deep learning
