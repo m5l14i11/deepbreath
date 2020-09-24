@@ -4,6 +4,6 @@
 ## IDE ? for deep learning
 
 
-### ?Electron
+### ?Electron ?Flutter
 ### ?Core / ?Plugins
 ### ?CNN / ?GNN / ?NLP
