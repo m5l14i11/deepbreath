@@ -6,7 +6,7 @@
 
 ### ?Electron ?Flutter ?Swift
 ### ?Core / ?Plugins
-### ?CNN / ?GNN / ?NLP
+### ?CNN / ?GNN / ?NLP / ?RL
 
 - Automate ml experiments
 - Track model performance
