@@ -12,4 +12,4 @@
 - Track model performance
 - Save, export models
 - Create Pipeline
-- Import data from publice datasets
+- Import data from public datasets
